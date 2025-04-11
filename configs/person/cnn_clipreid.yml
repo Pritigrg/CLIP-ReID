@@ -65,9 +65,9 @@ TEST:
   FEAT_NORM: 'yes'
 
 DATASETS:
-#   NAMES: ('market1501')
-#   ROOT_DIR: ('')
-# OUTPUT_DIR: ''
+  NAMES: ('market1501')
+  ROOT_DIR: ('data')
+OUTPUT_DIR: 'output/Market-1501-Output'
 
 #   NAMES: ('dukemtmc')
 #   ROOT_DIR: ('')

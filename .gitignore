@@ -7,3 +7,8 @@
 /utils/__pycache__
 /model/backbones/__pycache__
 /model/clip/__pycache__
+/data/
+/data-backup/
+/datasets/Market-1501-v15.09.15
+/output
+yolo11x-seg.pt
